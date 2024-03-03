@@ -1,0 +1,6 @@
+Sunnyside dairy farm sells organic brown eggs to local customers. It charges
+R125.67 for a dozen eggs, or R3.5 for individual eggs that are not part of a
+dozen. Write a program that prompts a user for the number of eggs in the order
+and then display the amount owed with a full explanation. For example, the
+output might look like this, you ordered 30 eggs. That’s 2 dozen at 125.67 per
+dozen and 3 loose eggs at R3.5 for a total of R261.84.
